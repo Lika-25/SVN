@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstring>
-using namespace std;//
+using namespace std;//,...
+
 
 class String {
 private:
